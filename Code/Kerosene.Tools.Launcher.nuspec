@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>7.4.0</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>http://www.codeproject.com/info/cpol10.aspx</licenseUrl>
+		<projectUrl>http://www.codeproject.com</projectUrl>
+		<requireLicenseAcceptance>true</requireLicenseAcceptance>
+		<description>Kerosene Tests Launcher</description>
+		<copyright>Copyright (c) Moises Barba Cebeira 2008-2015</copyright>
+		<tags>Kerosene</tags>
+	</metadata>
+</package>
